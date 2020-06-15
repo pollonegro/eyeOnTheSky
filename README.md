@@ -30,7 +30,7 @@ Face EXTRACTOR (people without mask):
 
 VIDEO POC:
 
-[![Face EXTRACTOR](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://youtu.be/x_xdU8HvUVg)
+[![Face EXTRACTOR](https://github.com/pollonegro/eyeOnTheSky/blob/master/img/faceExtractor.png)](https://youtu.be/x_xdU8HvUVg)
 
 Code modifications:
 

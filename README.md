@@ -3,7 +3,7 @@ Machine learning face recognition combined with a drone and osint tools
 
 --------------------------------------------------------------------------
 
-Object Tracking using YOLOv3, Deep Sort and Tensorflow:
+Real-time Object Tracking using YOLOv3, Deep Sort and Tensorflow:
 
 Original code:
 
@@ -15,7 +15,7 @@ VIDEO POC:
 
 --------------------------------------------------------------------------
 
-Mask detection (people without mask):
+Real-time Mask detection (people without mask):
 
 Original code:
 
@@ -26,7 +26,7 @@ VIDEO POC:
 [![Mask detection](https://github.com/pollonegro/eyeOnTheSky/blob/master/img/maskDetection.png)](https://youtu.be/66Fv1ektkdU)
 
 
-Face EXTRACTOR (people without mask):
+Real-time Face EXTRACTOR (people without mask):
 
 VIDEO POC:
 
@@ -39,7 +39,11 @@ Code modifications:
 
 # TO-DO:
 
-Mount all toguether in the drone, i´ll edit on version 2.
+Mount all toguether in the drone, i´ll edit on version 2 with videos and some cool stuff:
+
+- flight through a programmed tour by gps
+- Real-time face image extrator and people osint
+
 
 Batch OSINT image processing will be implemented with:
 

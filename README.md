@@ -42,6 +42,10 @@ Code modifications:
 
 # TO-DO:
 
+Batch OSINT image processing will be implemented with:
+
+https://github.com/jivoi/awesome-osint#-people-investigations
+
 Mount all toguether in the drone, i´ll edit on version 2 with videos and some cool stuff:
 
 - flight through a programmed tour by gps
@@ -50,12 +54,6 @@ Mount all toguether in the drone, i´ll edit on version 2 with videos and some c
 Possible colaboration/implementation:
 
 [![Violent Individuals Identification](https://github.com/pollonegro/eyeOnTheSky/blob/master/img/violentIdentification.png)](https://www.youtube.com/watch?v=zYypJPJipYc)
-
-Batch OSINT image processing will be implemented with:
-
-https://github.com/jivoi/awesome-osint#-people-investigations
-
-
 
 # Materials:
 

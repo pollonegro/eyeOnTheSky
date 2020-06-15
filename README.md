@@ -55,6 +55,10 @@ Possible colaboration/implementation:
 
 [![Violent Individuals Identification](https://github.com/pollonegro/eyeOnTheSky/blob/master/img/violentIdentification.png)](https://www.youtube.com/watch?v=zYypJPJipYc)
 
+Paper:
+
+http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w33/Singh_Eye_in_the_CVPR_2018_paper.pdf
+
 # Materials:
 
 Drone cost:

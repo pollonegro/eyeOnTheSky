@@ -55,10 +55,6 @@ Mount all toguether in the drone, i´ll edit on version 2 with videos and some c
 
 [![ArduPilot BendyRuler Object Avoidance](https://github.com/pollonegro/eyeOnTheSky/blob/master/img/arduPilotObjectAvoidance.png)](https://www.youtube.com/watch?v=eQQJ8OPJVDk)
 
-More info about Object Avoidance with Bendy Ruler:
-
-https://ardupilot.org/copter/docs/common-oa-bendyruler.html
-
 Possible colaboration/implementation:
 
 [![Violent Individuals Identification](https://github.com/pollonegro/eyeOnTheSky/blob/master/img/violentIdentification.png)](https://www.youtube.com/watch?v=zYypJPJipYc)

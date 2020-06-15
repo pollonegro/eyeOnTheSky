@@ -1,6 +1,9 @@
 # eyeOnTheSky
 Machine learning face recognition combined with a drone and osint tools
 
+
+![](https://github.com/pollonegro/eyeOnTheSky/blob/master/img/eyeMain.png)
+
 --------------------------------------------------------------------------
 
 Real-time Object Tracking using YOLOv3, Deep Sort and Tensorflow:

@@ -23,12 +23,12 @@ https://github.com/AIZOOTech/FaceMaskDetection
 
 VIDEO POC:
 
-[![Control manual.py]()](https://youtu.be/66Fv1ektkdU)
+[![MASK DETECTION]()](https://youtu.be/66Fv1ektkdU)
 
 
+VIDEO POC:
 
-
-
+[![FACE IMAGE EXTRACTOR]()](https://youtu.be/x_xdU8HvUVg)
 
 
 

@@ -32,7 +32,9 @@ VIDEO POC:
 
 [![Face EXTRACTOR](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://youtu.be/x_xdU8HvUVg)
 
+Code modifications:
 
+![](https://github.com/pollonegro/eyeOnTheSky/blob/master/img/face%20extractor%20modifications.png)
 
 
 # TO-DO:

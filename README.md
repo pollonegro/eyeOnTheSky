@@ -42,14 +42,15 @@ Code modifications:
 
 ![](https://github.com/pollonegro/eyeOnTheSky/blob/master/img/face%20extractor%20modifications.png)
 
-
-# TO-DO:
+# UNDER TESTING:
 
 Batch OSINT image face processing is under testing with:
 
 https://github.com/jivoi/awesome-osint#-people-investigations
 
 ![](https://github.com/pollonegro/eyeOnTheSky/blob/master/img/peopleInvestigations.png)
+
+# TO-DO:
 
 Mount all toguether in the drone, i´ll edit on version 2 with all videos and some cool stuff:
 

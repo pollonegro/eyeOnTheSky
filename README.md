@@ -48,8 +48,14 @@ https://github.com/jivoi/awesome-osint#-people-investigations
 
 Mount all toguether in the drone, i´ll edit on version 2 with videos and some cool stuff:
 
-- flight through a programmed tour by gps
 - Real-time face image extrator and people osint
+- Autonomous flight with ArduPilot BendyRuler Object Avoidance
+
+[![ArduPilot BendyRuler Object Avoidance](https://github.com/pollonegro/eyeOnTheSky/blob/master/img/arduPilotObjectAvoidance.png)](https://www.youtube.com/watch?v=eQQJ8OPJVDk)
+
+More info about Object Avoidance with Bendy Ruler:
+
+https://ardupilot.org/copter/docs/common-oa-bendyruler.html
 
 Possible colaboration/implementation:
 

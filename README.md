@@ -46,6 +46,8 @@ Batch OSINT image processing will be implemented with:
 
 https://github.com/jivoi/awesome-osint#-people-investigations
 
+![](https://github.com/pollonegro/eyeOnTheSky/blob/master/img/peopleInvestigations.png)
+
 Mount all toguether in the drone, i´ll edit on version 2 with videos and some cool stuff:
 
 - Real-time face image extrator and people osint ON FLY

@@ -1,4 +1,7 @@
 # eyeOnTheSky
+
+![](https://github.com/pollonegro/eyeOnTheSky/blob/master/img/eosMini.png)
+
 Machine learning face recognition combined with a drone and osint tools
 
 

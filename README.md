@@ -5,15 +5,13 @@ Machine learning face recognition combined with a drone and osint tools
 
 Object Tracking using YOLOv3, Deep Sort and Tensorflow:
 
-![](https://github.com/pollonegro/eyeOnTheSky/blob/master/img/peopleTracking.png)
-
 FORK:
 
 https://github.com/pollonegro/yolov3_deepsort
 
 VIDEO POC:
 
-[![people tracking](https://github.com/pollonegro/wifiRadar/blob/master/img/wifiRadarvideoMain.png)](https://youtu.be/rCGjMSHFTc8)
+[![people tracking]](https://youtu.be/rCGjMSHFTc8)
 
 --------------------------------------------------------------------------
 

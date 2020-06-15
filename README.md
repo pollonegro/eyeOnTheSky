@@ -3,19 +3,19 @@ Machine learning face recognition combined with a drone and osint tools
 
 --------------------------------------------------------------------------
 
-# Object Tracking using YOLOv3, Deep Sort and Tensorflow:
+Object Tracking using YOLOv3, Deep Sort and Tensorflow:
 
 Original code:
 
 https://github.com/theAIGuysCode/yolov3_deepsort
 
-# VIDEO POC:
+VIDEO POC:
 
-[![people tracking]()](https://youtu.be/rCGjMSHFTc8)
+[![People tracking](https://github.com/pollonegro/eyeOnTheSky/blob/master/img/peopleTrackingCam.png)](https://youtu.be/rCGjMSHFTc8)
 
 --------------------------------------------------------------------------
 
-# Face detection (people without mask):
+Mask detection (people without mask):
 
 Original code:
 
@@ -23,13 +23,14 @@ https://github.com/AIZOOTech/FaceMaskDetection
 
 VIDEO POC:
 
-[![MASK DETECTION]()](https://youtu.be/66Fv1ektkdU)
+[![Mask detection](https://github.com/pollonegro/eyeOnTheSky/blob/master/img/maskDetection.png)](https://youtu.be/66Fv1ektkdU)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/66Fv1ektkdU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# VIDEO POC:
+Face EXTRACTOR (people without mask):
 
-[![FACE IMAGE EXTRACTOR]()](https://youtu.be/x_xdU8HvUVg)
+VIDEO POC:
+
+[![Face EXTRACTOR](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://youtu.be/x_xdU8HvUVg)
 
 
 
@@ -37,6 +38,10 @@ VIDEO POC:
 # TO-DO:
 
 Mount all toguether in the drone, i´ll edit on version 2.
+
+Batch OSINT image processing will be implemented with:
+
+https://github.com/jivoi/awesome-osint#-people-investigations
 
 
 # Materials:
